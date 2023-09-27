@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm Android developer and currently work in the smart home application
 
+my resume in : (https://meysam-azadmehr.github.io/)
+
 - 👨‍💻 All of my projects are available at [meysam-azadmehr](meysam-azadmehr)
 
 - 📫 How to reach me **meysam.azadmehr@gmail.com**
